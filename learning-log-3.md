@@ -1,4 +1,4 @@
-# Learning Log 2
+# Learning Log 3
 ![Ready Trader Go](/assets/images/ready-trader-go.jpg)
 
 ## Current goals
